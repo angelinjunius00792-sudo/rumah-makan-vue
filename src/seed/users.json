@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Mama", "username": "pemilik", "password": "pemilik123", "role": "pemilik" },
+  { "id": 2, "name": "Pelayan 1", "username": "pelayan", "password": "pelayan123", "role": "pelayan" },
+  { "id": 3, "name": "Pelanggan", "username": "pelanggan", "password": "pelanggan123", "role": "pelanggan" }
+]

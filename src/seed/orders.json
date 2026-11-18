@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1, "waiterId": 2, "tableNo": 3, "status": "dibayar",
+    "createdAt": "2026-11-16T12:10:00.000Z", "total": 29000,
+    "items": [
+      { "menuId": 1, "name": "Nasi", "price": 5000, "qty": 2 },
+      { "menuId": 4, "name": "Ayam Goreng", "price": 12000, "qty": 1 },
+      { "menuId": 23, "name": "Teh Es/Panas", "price": 7000, "qty": 1 }
+    ]
+  },
+  {
+    "id": 2, "waiterId": 2, "tableNo": 5, "status": "belum_bayar",
+    "createdAt": "2026-11-17T04:30:00.000Z", "total": 35000,
+    "items": [
+      { "menuId": 1, "name": "Nasi", "price": 5000, "qty": 1 },
+      { "menuId": 10, "name": "Ikan Gulai", "price": 20000, "qty": 1 },
+      { "menuId": 13, "name": "Gulai Daun Ubi", "price": 5000, "qty": 1 },
+      { "menuId": 27, "name": "Mineral", "price": 5000, "qty": 1 }
+    ]
+  }
+]

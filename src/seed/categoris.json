@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Nasi" },
+  { "id": 2, "name": "Menu Ayam" },
+  { "id": 3, "name": "Menu Ikan dan Seafood" },
+  { "id": 4, "name": "Menu Sayuran" },
+  { "id": 5, "name": "Menu Lainnya" },
+  { "id": 6, "name": "Minuman" }
+]
