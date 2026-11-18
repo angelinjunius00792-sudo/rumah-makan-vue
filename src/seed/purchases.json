@@ -1,0 +1,6 @@
+[
+  { "id": 1, "userId": 1, "date": "2026-11-16", "itemName": "Ayam", "qty": 10, "unit": "kg", "totalPrice": 350000 },
+  { "id": 2, "userId": 1, "date": "2026-11-16", "itemName": "Beras", "qty": 25, "unit": "kg", "totalPrice": 325000 },
+  { "id": 3, "userId": 1, "date": "2026-11-17", "itemName": "Ikan", "qty": 5, "unit": "kg", "totalPrice": 150000 },
+  { "id": 4, "userId": 1, "date": "2026-11-17", "itemName": "Kangkung", "qty": 10, "unit": "ikat", "totalPrice": 30000 }
+]
